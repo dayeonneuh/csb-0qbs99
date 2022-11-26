@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dayeonneuh.github.io/csb-0qbs99/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dayeonneuh.github.io/csb-0qbs99/static/js/main.9e755b89.chunk.js",
+    "main.js.map": "https://dayeonneuh.github.io/csb-0qbs99/static/js/main.9e755b89.chunk.js.map",
+    "runtime-main.js": "https://dayeonneuh.github.io/csb-0qbs99/static/js/runtime-main.553a0e94.js",
+    "runtime-main.js.map": "https://dayeonneuh.github.io/csb-0qbs99/static/js/runtime-main.553a0e94.js.map",
+    "static/js/2.b9b26f43.chunk.js": "https://dayeonneuh.github.io/csb-0qbs99/static/js/2.b9b26f43.chunk.js",
+    "static/js/2.b9b26f43.chunk.js.map": "https://dayeonneuh.github.io/csb-0qbs99/static/js/2.b9b26f43.chunk.js.map",
+    "index.html": "https://dayeonneuh.github.io/csb-0qbs99/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dayeonneuh.github.io/csb-0qbs99/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b9b26f43.chunk.js.LICENSE.txt": "https://dayeonneuh.github.io/csb-0qbs99/static/js/2.b9b26f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.553a0e94.js",
+    "static/js/2.b9b26f43.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9e755b89.chunk.js"
+  ]
+}
